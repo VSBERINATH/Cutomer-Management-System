@@ -1,0 +1,13 @@
+com\CustomerManagementSystem\Validation\CustomerDetailsValidation.class
+com\CustomerManagementSystem\CustomerServiceImpl.class
+com\CustomerManagementSystem\repository\PermanentAddressRepository.class
+com\CustomerManagementSystem\controller\CustomerController.class
+com\CustomerManagementSystem\repository\CommunicationRepository.class
+com\CustomerManagementSystem\repository\CustomerRepository.class
+com\CustomerManagementSystem\entities\CommunicationAddress.class
+com\CustomerManagementSystem\entities\PermanentAddress.class
+com\CustomerManagementSystem\exception\GlobalExceptionHandler.class
+com\CustomerManagementSystem\service\CustomerService.class
+com\CustomerManagementSystem\CustomerManagementSystemApplication.class
+com\CustomerManagementSystem\exception\ResourceNotFoundException.class
+com\CustomerManagementSystem\entities\Customer.class
